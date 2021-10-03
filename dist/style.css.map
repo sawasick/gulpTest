@@ -1,0 +1,1 @@
+{"version":3,"sources":["_test.scss"],"names":[],"mappings":"AAAA,OACC,cAAA,CACA,SAAA,CACC,gBAAA,CACA,mBAAA,CAAA,mBAAA,CAAA,YAAA,CACA,iBAAA,CACA,qBAAA,CACA,UAAA","file":"style.css","sourcesContent":["header {\n\tfont-size: 20px;\n\tcolor: red;\n  font-weight: bold;\n  display: flex;\n  text-align: center;\n  background-color: aqua;\n  opacity: 0.4;\n}\n"]}
